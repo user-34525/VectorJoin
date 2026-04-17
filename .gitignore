@@ -1,0 +1,16 @@
+build/
+results/
+ann_benchmarks_data/
+efanna_graph/
+nsg/
+temp.graph
+unused.txt
+
+sift/
+gist/
+glove/
+fmnist/
+nytimes/
+coco/
+laion/
+imagenet/
